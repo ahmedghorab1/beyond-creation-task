@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/beyond-creation-task/static/css/main.9837665f.chunk.css",
+    "main.js": "/beyond-creation-task/static/js/main.5ff08f62.chunk.js",
+    "main.js.map": "/beyond-creation-task/static/js/main.5ff08f62.chunk.js.map",
+    "runtime-main.js": "/beyond-creation-task/static/js/runtime-main.3589178b.js",
+    "runtime-main.js.map": "/beyond-creation-task/static/js/runtime-main.3589178b.js.map",
+    "static/js/2.10167c3e.chunk.js": "/beyond-creation-task/static/js/2.10167c3e.chunk.js",
+    "static/js/2.10167c3e.chunk.js.map": "/beyond-creation-task/static/js/2.10167c3e.chunk.js.map",
+    "index.html": "/beyond-creation-task/index.html",
+    "static/css/main.9837665f.chunk.css.map": "/beyond-creation-task/static/css/main.9837665f.chunk.css.map",
+    "static/js/2.10167c3e.chunk.js.LICENSE.txt": "/beyond-creation-task/static/js/2.10167c3e.chunk.js.LICENSE.txt",
+    "static/media/ceo.812428e8.jpg": "/beyond-creation-task/static/media/ceo.812428e8.jpg",
+    "static/media/chalhoub_in_numbers.004a0a64.png": "/beyond-creation-task/static/media/chalhoub_in_numbers.004a0a64.png",
+    "static/media/chalhoub_video.fda3fd0e.mp4": "/beyond-creation-task/static/media/chalhoub_video.fda3fd0e.mp4",
+    "static/media/logo.c8d38811.png": "/beyond-creation-task/static/media/logo.c8d38811.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3589178b.js",
+    "static/js/2.10167c3e.chunk.js",
+    "static/css/main.9837665f.chunk.css",
+    "static/js/main.5ff08f62.chunk.js"
+  ]
+}
