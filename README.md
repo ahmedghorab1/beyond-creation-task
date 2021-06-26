@@ -6,7 +6,7 @@ The app is deployed on Github Pages: https://ahmedghorab1.github.io/beyond-creat
  
 
 ### Details: 
-1- The first slider is implemented using the function provided in the imdex.js in uitils folder. \
+1- The first slider is implemented using the function provided in the index.js in uitils folder. \
 2- The second slider is the Carousel component from Bootstrap 5 \
 3- The responsiveness of the app is depending on media queries based of different breakpoints. \
 4- The icons used are from font-awesome. 
